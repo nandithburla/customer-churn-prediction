@@ -4,4 +4,4 @@ scikit-learn
 matplotlib
 seaborn
 jupyter
-flask
+requests
